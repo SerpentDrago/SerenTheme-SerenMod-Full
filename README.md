@@ -1,17 +1,17 @@
 
 ## Auramod Theme for Seren
 
-Source Select                                     | Scraping
-:------------------------------------------------:|:-------------------------------------------------:
-![Source Select](https://i.imgur.com/sqgtzXg.png) | ![Provider Manager](https://i.imgur.com/wZukP7n.jpg)
+Source Select                                       |
+:--------------------------------------------------:|
+![Source Select](https://i.imgur.com/sqgtzXg.png)   |
 
-Resolving                                         | Provider Manager
-:------------------------------------------------:|:-------------------------------------------------:
-![Source Select](https://i.imgur.com/ADKZ16Y.png) | ![Provider Manager](https://i.imgur.com/TagHvjP.png)
+SmartPlay PopUp                                     | Scraping
+:--------------------------------------------------:|:-------------------------------------------------:
+![SmartPlay PopUp](https://i.imgur.com/4DVRzQG.png) | ![Scraping](https://i.imgur.com/wZukP7n.jpg)
 
-SmartPlay Pop-Up                                  |
-:------------------------------------------------:|
-![Source Select](https://i.imgur.com/4DVRzQG.png) |
+Resolving                                           | Provider Manager
+:--------------------------------------------------:|:-------------------------------------------------:
+![Resolving](https://i.imgur.com/ADKZ16Y.png)       | ![Provider Manager](https://i.imgur.com/TagHvjP.png)
 
 Requirements:
 * Seren - 1.3.6 or greater
