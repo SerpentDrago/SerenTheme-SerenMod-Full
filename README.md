@@ -23,7 +23,9 @@ To install this theme in Seren, navigate to:
 
 `Seren -> Tools > Open Settings Menu -> Theme Manager -> Interface > (themes section) Install Theme -> Web Location`
 
-And enter the following URL:
+And enter one of the following URL:
+http://bit.ly/serenmodfull
+or
 https://www.github.com/SerpentDrago/SerenTheme-SerenMod-Full/zipball/master/
 
 You can also download the `.zip` file directly from the same URL, and install it from:
