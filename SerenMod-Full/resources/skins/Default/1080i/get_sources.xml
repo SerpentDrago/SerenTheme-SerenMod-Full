@@ -22,6 +22,51 @@
             <height>1080</height>
             <texture background="true">$INFO[Window().Property(item.art.fanart)]</texture>
         </control>
+        
+        <!-- MultiFanart -->
+            <control type="group">
+                <visible>Skin.HasSetting(SkinHelper.EnableExtraFanart) + System.HasAddon(script.artwork.helper)</visible>
+            
+                <control type="fadelabel" id="1010">
+                    <info>Window().Property(item.art.fanart)</info>
+                    <info>Window().Property(item.art.fanart1)</info>
+                    <info>Window().Property(item.art.fanart2)</info>
+                    <info>Window().Property(item.art.fanart3)</info>
+                    <info>Window().Property(item.art.fanart4)</info>
+                    <info>Window().Property(item.art.fanart5)</info>
+                    <info>Window().Property(item.art.fanart6)</info>
+                    <info>Window().Property(item.art.fanart7)</info>
+                    <info>Window().Property(item.art.fanart8)</info>
+                    <info>Window().Property(item.art.fanart9)</info>
+                    <info>Window().Property(item.art.fanart10)</info>
+                    <info>Window().Property(item.art.fanart11)</info>
+                    <info>Window().Property(item.art.fanart12)</info>
+                    <info>Window().Property(item.art.fanart13)</info>
+                    <info>Window().Property(item.art.fanart14)</info>
+                    <info>Window().Property(item.art.fanart15)</info>
+                    <info>Window().Property(item.art.fanart16)</info>
+                    <info>Window().Property(item.art.fanart17)</info>
+                    <info>Window().Property(item.art.fanart18)</info>
+                    <info>Window().Property(item.art.fanart19)</info>
+                    <info>Window().Property(item.art.fanart20)</info>
+                    <randomize>true</randomize>
+                    <pauseatend>8000</pauseatend>
+                    <scroll>false</scroll>
+                    <scrollout>false</scrollout>
+                    <resetonlabelchange>true</resetonlabelchange>
+                    <textcolor>0x00000000</textcolor>
+                </control>
+                
+                <!-- Background -->
+                <control type="multiimage">
+                    <imagepath background="true">$INFO[Control.GetLabel(1010)]</imagepath>
+                    <timeperimage>4000</timeperimage>
+                    <fadetime>1000</fadetime>
+                    <pauseatend>12000</pauseatend>
+                    <randomize>true</randomize>
+                    <loop>no</loop>
+                </control>
+            </control>
 
         <control type="image">
             <top>0</top>
