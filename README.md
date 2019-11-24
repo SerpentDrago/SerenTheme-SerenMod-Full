@@ -3,7 +3,7 @@
 
 Source Select                                       |Hack to show title in subtitle screen 
 :--------------------------------------------------:|:-------------------------------------------------:
-![Source Select](https://i.imgur.com/sqgtzXg.png)   |![Subtitle Download](https://imgur.com/a/9VT4PJT)
+![Source Select](https://i.imgur.com/sqgtzXg.png)   |![Subtitle Download](https://imgur.com/H9i3D1M)
 
 SmartPlay PopUp                                     | Scraping
 :--------------------------------------------------:|:-------------------------------------------------:
