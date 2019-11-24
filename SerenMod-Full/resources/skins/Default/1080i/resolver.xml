@@ -1,4 +1,5 @@
 <window type="dialog">
+<onload>Skin.SetString(serenfile,$INFO[Window().Property(release_title)])</onload>
     <defaultcontrol>2</defaultcontrol>
     <coordinates>
         <left>0</left>
