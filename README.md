@@ -1,11 +1,11 @@
 
 ## Auramod Theme for Seren
 
-Source Select                                       |Hack to show title in subtitle screen 
-:--------------------------------------------------:|:-------------------------------------------------:
-![Source Select](https://i.imgur.com/sqgtzXg.png)   |![Subtitle Download](https://i.imgur.com/H9i3D1M.png)
+Source Select                                       |
+:--------------------------------------------------:|
+![Source Select](https://i.imgur.com/sqgtzXg.png)   |
 
-SmartPlay PopUp                                     | Scraping
+SmartPlay PopUp                                     | 
 :--------------------------------------------------:|:-------------------------------------------------:
 ![SmartPlay PopUp](https://i.imgur.com/4DVRzQG.png) | ![Scraping](https://i.imgur.com/wZukP7n.jpg)
 
