@@ -1,15 +1,15 @@
 ## Theme for Seren & Auramod users
 
 Source Select                                       |
-:--------------------------------------------------:|:-------------------------------------------------:
+:--------------------------------------------------:|:--------------------------------------------:
 ![Source Select](https://i.imgur.com/sqgtzXg.png)   |
 
 Scraping                                     |
-:--------------------------------------------------:|:-------------------------------------------------:
+:--------------------------------------------------:|:---------------------------------------------:
  ![Scraping](https://i.imgur.com/wZukP7n.jpg) |
 
 Resolving                                           | Provider Manager
-:--------------------------------------------------:|:-------------------------------------------------:
+:--------------------------------------------------:|:---------------------------------------------:
 ![Resolving](https://i.imgur.com/ADKZ16Y.png)       | ![Provider Manager](https://i.imgur.com/TagHvjP.png)
 
 
@@ -44,3 +44,4 @@ You can also download the `.zip` file directly from the same URL, and install it
 
 
 *The creator of this theme is not affiliated with Seren, Arctic Zephyr 2, or Kodi.*
+
