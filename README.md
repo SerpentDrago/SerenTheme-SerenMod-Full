@@ -1,23 +1,25 @@
-
-## Auramod Theme for Seren
+## Theme for Seren & Auramod users
 
 Source Select                                       |
-:--------------------------------------------------:|
+:--------------------------------------------------:|:-------------------------------------------------:
 ![Source Select](https://i.imgur.com/sqgtzXg.png)   |
 
-SmartPlay PopUp                                     | 
+Scraping                                     |
 :--------------------------------------------------:|:-------------------------------------------------:
-![SmartPlay PopUp](https://i.imgur.com/4DVRzQG.png) | ![Scraping](https://i.imgur.com/wZukP7n.jpg)
+ ![Scraping](https://i.imgur.com/wZukP7n.jpg) |
 
 Resolving                                           | Provider Manager
 :--------------------------------------------------:|:-------------------------------------------------:
 ![Resolving](https://i.imgur.com/ADKZ16Y.png)       | ![Provider Manager](https://i.imgur.com/TagHvjP.png)
 
-Requirements:
+
+##### Requirements
 * Seren - 1.3.6 or greater
-* AuraMod - Latest Repo version or higher
+* AuraMod - Latest Repo version or higher 
 
 **This theme Has not been tested and won't be supported on any skin besides AuraMod , use at your on risk with other skins.**
+
+*The text color for this theme is controlled by Serens  Settings called "Select Text Highlight Color..." Found in Seren Settings > Interface*
 
 To install this theme in Seren, navigate to:
 
@@ -25,15 +27,20 @@ To install this theme in Seren, navigate to:
 
 And enter one of the following URL:
 http://bit.ly/serenmodfull
-
 or
 
 https://www.github.com/SerpentDrago/SerenTheme-SerenMod-Full/zipball/master/
+
+------------
+
 
 You can also download the `.zip` file directly from the same URL, and install it from:
 
 `Seren -> Tools > Open Settings Menu -> Theme Manager -> Interface > (themes section) Install Theme ->  Browse`
 
-The text color for this theme is controlled by Serens "Select Text Highlight Color..." Found in Seren Settings > Interface
+------------
 
-The creator of this theme is not affiliated with Seren, Arctic Zephyr 2, or Kodi.
+
+
+
+*The creator of this theme is not affiliated with Seren, Arctic Zephyr 2, or Kodi.*
