@@ -1,16 +1,12 @@
 ## Theme for Seren & Auramod users
 
-Source Select                                       |
-:--------------------------------------------------:|:--------------------------------------------:
-![Source Select](https://i.imgur.com/sqgtzXg.png)   |
+|                   Scraping                   |                   Source Select                   |
+|:--------------------------------------------:|:-------------------------------------------------:|
+| ![Scraping](https://i.imgur.com/wZukP7n.jpg) | ![Source Select](https://i.imgur.com/sqgtzXg.png) |
 
-Scraping                                     |
-:--------------------------------------------------:|:---------------------------------------------:
- ![Scraping](https://i.imgur.com/wZukP7n.jpg) |
-
-Resolving                                           | Provider Manager
-:--------------------------------------------------:|:---------------------------------------------:
-![Resolving](https://i.imgur.com/ADKZ16Y.png)       | ![Provider Manager](https://i.imgur.com/TagHvjP.png)
+|                    Resolving                  |                Provider Manager                      |
+|:---------------------------------------------:|:----------------------------------------------------:|
+| ![Resolving](https://i.imgur.com/ADKZ16Y.png) | ![Provider Manager](https://i.imgur.com/TagHvjP.png) |
 
 
 ##### Requirements
