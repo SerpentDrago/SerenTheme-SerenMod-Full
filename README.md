@@ -1,5 +1,5 @@
 ## Theme for Seren & Auramod users
-|                  SmartPlay PopUp             |
+                  SmartPlay PopUp             
 ![nextup up popup](https://i.imgur.com/dsaUpuE.jpg)
 
 |                   Scraping                   |                   Source Select                   |
