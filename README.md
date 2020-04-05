@@ -1,5 +1,7 @@
 ## Theme for Seren & Auramod users
 
+![nextup up popup](https://i.imgur.com/h26iV3K.jpg)
+
 |                   Scraping                   |                   Source Select                   |
 |:--------------------------------------------:|:-------------------------------------------------:|
 | ![Scraping](https://i.imgur.com/wZukP7n.jpg) | ![Source Select](https://i.imgur.com/sqgtzXg.png) |
