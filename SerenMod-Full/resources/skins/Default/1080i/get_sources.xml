@@ -404,15 +404,9 @@
                 <visible>!Integer.IsGreaterOrEqual(Window().Property(remaining_providers_count),10)</visible>
             </control>
         </control>
-
-
-
-        <!--LAYOUT GRID-->
-        <!--<control type="image">-->
-        <!--<width>100%</width>-->
-        <!--<height>100%</height>-->
-        <!--<texture>$INFO[Window(13000).Property(test_pattern)]</texture>-->
-        <!--<colordiffuse>55FFFFFF</colordiffuse>-->
-        <!--</control>-->
+        
+        <control type="list" id="2000">
+            </visible>
+        </control>
     </controls>
 </window>
