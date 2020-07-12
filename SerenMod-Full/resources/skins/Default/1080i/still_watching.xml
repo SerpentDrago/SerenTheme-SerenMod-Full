@@ -109,7 +109,7 @@
                         <include content="Object_Info_Button">
                             <param name="id" value="3002" />
                             <param name="groupid" value="9013" />
-                            <param name="label" value="STOP" />
+                            <param name="label" value="Stop" />
                             <param name="icon" value="special://skin/extras/icons/disabled.png" />
                             <param name="visible" value="true" />
                             <onclick>SetFocus(3013)</onclick>
