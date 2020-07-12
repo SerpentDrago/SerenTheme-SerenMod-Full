@@ -1,4 +1,4 @@
-## Theme for Seren & Auramod users
+## Theme for Seren & AH Users 
                   SmartPlay PopUp             
 ![nextup up popup](https://i.imgur.com/dsaUpuE.jpg)
 
@@ -25,11 +25,10 @@
 
 `Seren -> Tools > Open Settings Menu -> Theme Manager -> Interface > (themes section) Install Theme -> Web Location`
 
-And enter one of the following URL:
-http://bit.ly/serenmodfull
-or
+And enter the following URL:
 
-https://www.github.com/SerpentDrago/SerenTheme-SerenMod-Full/zipball/master/
+
+https://www.github.com/SerpentDrago/SerenTheme-SerenMod-Full/zipball/AH-MOD
 
 ------------
 
