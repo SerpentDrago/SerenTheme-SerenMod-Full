@@ -12,7 +12,7 @@
 
 
 ##### Requirements
-* Seren - 1.3.6 or greater
+* Seren - 2.x or greater
 * AuraMod - Latest Repo version or higher 
 
 **This theme Has not been tested and won't be supported on any skin besides AuraMod , use at your on risk with other skins.**
