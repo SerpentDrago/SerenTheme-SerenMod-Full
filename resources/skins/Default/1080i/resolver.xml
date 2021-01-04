@@ -1,10 +1,11 @@
 <window type="dialog">
-<onload>Skin.SetString(serenfile,$INFO[Window().Property(release_title)])</onload>
     <defaultcontrol>2</defaultcontrol>
     <coordinates>
         <left>0</left>
         <top>0</top>
     </coordinates>
+    <animation effect="fade" time="500">WindowOpen</animation>
+    <animation effect="fade" end="0,576" time="500">WindowClose</animation>
     <controls>
         <!-- Background Texture -->
         <control type="image">
@@ -22,51 +23,6 @@
             <height>1080</height>
             <texture background="true">$INFO[Window().Property(item.art.fanart)]</texture>
         </control>
-        
-        <!-- MultiFanart -->
-            <control type="group">
-                <visible>Skin.HasSetting(SkinHelper.EnableExtraFanart) + System.HasAddon(script.artwork.helper)</visible>
-            
-                <control type="fadelabel" id="1010">
-                    <info>Window().Property(item.art.fanart)</info>
-                    <info>Window().Property(item.art.fanart1)</info>
-                    <info>Window().Property(item.art.fanart2)</info>
-                    <info>Window().Property(item.art.fanart3)</info>
-                    <info>Window().Property(item.art.fanart4)</info>
-                    <info>Window().Property(item.art.fanart5)</info>
-                    <info>Window().Property(item.art.fanart6)</info>
-                    <info>Window().Property(item.art.fanart7)</info>
-                    <info>Window().Property(item.art.fanart8)</info>
-                    <info>Window().Property(item.art.fanart9)</info>
-                    <info>Window().Property(item.art.fanart10)</info>
-                    <info>Window().Property(item.art.fanart11)</info>
-                    <info>Window().Property(item.art.fanart12)</info>
-                    <info>Window().Property(item.art.fanart13)</info>
-                    <info>Window().Property(item.art.fanart14)</info>
-                    <info>Window().Property(item.art.fanart15)</info>
-                    <info>Window().Property(item.art.fanart16)</info>
-                    <info>Window().Property(item.art.fanart17)</info>
-                    <info>Window().Property(item.art.fanart18)</info>
-                    <info>Window().Property(item.art.fanart19)</info>
-                    <info>Window().Property(item.art.fanart20)</info>
-                    <randomize>true</randomize>
-                    <pauseatend>8000</pauseatend>
-                    <scroll>false</scroll>
-                    <scrollout>false</scrollout>
-                    <resetonlabelchange>true</resetonlabelchange>
-                    <textcolor>0x00000000</textcolor>
-                </control>
-                
-                <!-- Background -->
-                <control type="multiimage">
-                    <imagepath background="true">$INFO[Control.GetLabel(1010)]</imagepath>
-                    <timeperimage>4000</timeperimage>
-                    <fadetime>1000</fadetime>
-                    <pauseatend>12000</pauseatend>
-                    <randomize>true</randomize>
-                    <loop>no</loop>
-                </control>
-            </control>
 
         <control type="image">
             <top>0</top>
@@ -80,9 +36,9 @@
 
         <!-- Seren Logo -->
         <control type="image" id="1001">
-            <top>-50</top>
-            <left>880</left>
-            <width>150</width>
+            <top>-80</top>
+            <left>900</left>
+            <width>100</width>
             <aspectratio>keep</aspectratio>
             <texture>$INFO[Window().Property(seren.logo)]</texture>
         </control>
@@ -115,7 +71,8 @@
                 <aligny>center</aligny>
                 <width>auto</width>
                 <textcolor>FFDDDDDD</textcolor>
-                <label>[COLOR $INFO[Window().Property(settings.color)]]$INFO[Window().Property(release_title)][/COLOR]</label>
+                <label>[COLOR $INFO[Window().Property(settings.color)]]$INFO[Window().Property(release_title)][/COLOR]
+                </label>
             </control>
 
             <control type="label">
@@ -127,7 +84,8 @@
                 <aligny>center</aligny>
                 <width>auto</width>
                 <textcolor>FFDDDDDD</textcolor>
-                <label>Provider: [UPPERCASE][COLOR$INFO[Window().Property(settings.color)]]$INFO[Window().Property(debrid_provider)][/COLOR][/UPPERCASE] | Source:  [UPPERCASE][COLOR$INFO[Window().Property(settings.color)]]$INFO[Window().Property(source_provider)][/COLOR][/UPPERCASE]</label>
+                <label>$ADDON[plugin.video.seren 30257]: [UPPERCASE][COLOR$INFO[Window().Property(settings.color)]]$INFO[Window().Property(debrid_provider)][/COLOR][/UPPERCASE] | $ADDON[plugin.video.seren 30274]: [UPPERCASE][COLOR$INFO[Window().Property(settings.color)]]$INFO[Window().Property(source_provider)][/COLOR][/UPPERCASE]
+                </label>
             </control>
 
             <control type="label">
@@ -139,7 +97,8 @@
                 <aligny>center</aligny>
                 <width>auto</width>
                 <textcolor>FFDDDDDD</textcolor>
-                <label>Resolution: [UPPERCASE][COLOR$INFO[Window().Property(settings.color)]]$INFO[Window().Property(source_resolution)][/COLOR][UPPERCASE] | Info: [UPPERCASE][COLOR$INFO[Window().Property(settings.color)]]$INFO[Window().Property(source_info)][/COLOR][/UPPERCASE]</label>
+                <label>$ADDON[plugin.video.seren 30260]: [UPPERCASE][COLOR$INFO[Window().Property(settings.color)]]$INFO[Window().Property(source_resolution)][/COLOR][UPPERCASE] | $ADDON[plugin.video.seren 30275]: [UPPERCASE][COLOR$INFO[Window().Property(settings.color)]]$INFO[Window().Property(source_info)][/COLOR][/UPPERCASE]
+                </label>
             </control>
 
         </control>
