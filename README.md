@@ -9,7 +9,6 @@
 
 **This theme Has not been tested and won't be supported on any skin besides AuraMod , use at your on risk with other skins.**
 
-*The text color for this theme is controlled by Serens  Settings called "Select Text Highlight Color..." Found in Seren Settings > Interface*
 
 -----------
 
