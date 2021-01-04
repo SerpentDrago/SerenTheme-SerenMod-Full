@@ -1,7 +1,7 @@
 {
-  "skin_name": "SerenMod-Full",
-  "version": "0.0.7",
+  "skin_name": "SerenStockMod",
+  "version": "0.0.1",
   "author": "a4k",
-  "update_directory": "https://www.github.com/SerpentDrago/SerenTheme-SerenMod-Full/zipball/master/",
-  "remote_meta": "https://raw.githubusercontent.com/SerpentDrago/SerenTheme-SerenMod-Full/master/SerenMod-Full/resources/skins/meta.json"
+  "update_directory": "https://www.github.com/SerpentDrago/SerenTheme-SerenMod-Full/zipball/serenstockmod/",
+  "remote_meta": "https://raw.githubusercontent.com/SerpentDrago/SerenTheme-SerenMod-Full/serenstockmod/SerenMod-Full/resources/skins/meta.json"
 }
