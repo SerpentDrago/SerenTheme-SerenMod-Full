@@ -1,4 +1,4 @@
-## Theme for Seren & Auramod users
+## Theme for Seren & Auramod users that ONLY modifys the Next up and still watchign popups , the rest is seren 2.x Stock theme
                   SmartPlay PopUp             
 ![nextup up popup](https://i.imgur.com/dsaUpuE.jpg)
 
@@ -17,11 +17,9 @@
 
 `Seren -> Tools > Open Settings Menu -> Theme Manager -> Interface > (themes section) Install Theme -> Web Location`
 
-And enter one of the following URL:
-http://bit.ly/serenmodfull
-or
+And enter  the following URL:
 
-https://www.github.com/SerpentDrago/SerenTheme-SerenMod-Full/zipball/master/
+https://github.com/SerpentDrago/SerenTheme-SerenMod-Full/tree/serenstockmod
 
 ------------
 
