@@ -19,7 +19,7 @@
 
 And enter  the following URL:
 
-https://github.com/SerpentDrago/SerenTheme-SerenMod-Full/tree/serenstockmod
+https://www.github.com/SerpentDrago/SerenTheme-SerenMod-Full/zipball/serenstockmod/
 
 ------------
 
