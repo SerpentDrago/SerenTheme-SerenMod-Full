@@ -55,7 +55,7 @@
                         <left>0</left>
                         <width>100%</width>
                         <height>136</height>
-                        <texture>white.png</texture>
+                        <texture>$INFO[Window().Property(texture.white)]</texture>
                         <colordiffuse>99362e33</colordiffuse>
                     </control>
                     <control type="label">
@@ -84,7 +84,7 @@
                             <left>0</left>
                             <width>100%</width>
                             <height>136</height>
-                            <texture>white.png</texture>
+                            <texture>$INFO[Window().Property(texture.white)]</texture>
                             <colordiffuse>55000000</colordiffuse>
                     </control>
                 </control>
@@ -97,7 +97,7 @@
                         <top>10</top>
                         <width>100%</width>
                         <height>290</height>
-                        <texture>white.png</texture>
+                        <texture>$INFO[Window().Property(texture.white)]</texture>
                         <colordiffuse>FF362e33</colordiffuse>
                     </control>
                     <control type="image">
@@ -162,7 +162,7 @@
                 <control type="image">
                     <width>400</width>
                     <height>580</height>
-                    <texture>white.png</texture>
+                    <texture>$INFO[Window().Property(texture.white)]</texture>
                     <colordiffuse>99362e33</colordiffuse>
                 </control>
                 <control type="grouplist" id="2000">
@@ -175,8 +175,8 @@
                         <width>100%</width>
                         <height>80</height>
                         <textoffsetx>20</textoffsetx>
-                        <texturefocus colordiffuse="$INFO[Window().Property(settings.color)]">white.png</texturefocus>
-                        <texturenofocus colordiffuse="22000000">white.png</texturenofocus>
+                        <texturefocus colordiffuse="$INFO[Window().Property(settings.color)]">$INFO[Window().Property(texture.white)]</texturefocus>
+                        <texturenofocus colordiffuse="22000000">$INFO[Window().Property(texture.white)]</texturenofocus>
                         <label>$ADDON[plugin.video.seren 30513]</label>
                         <align>right</align>
                         <textcolor>white</textcolor>
@@ -185,8 +185,8 @@
                         <width>100%</width>
                         <height>80</height>
                         <textoffsetx>20</textoffsetx>
-                        <texturefocus colordiffuse="$INFO[Window().Property(settings.color)]">white.png</texturefocus>
-                        <texturenofocus colordiffuse="22000000">white.png</texturenofocus>
+                        <texturefocus colordiffuse="$INFO[Window().Property(settings.color)]">$INFO[Window().Property(texture.white)]</texturefocus>
+                        <texturenofocus colordiffuse="22000000">$INFO[Window().Property(texture.white)]</texturenofocus>
                         <label>$ADDON[plugin.video.seren 30261]</label>
                         <align>right</align>
                         <textcolor>white</textcolor>
@@ -195,8 +195,8 @@
                         <width>100%</width>
                         <height>80</height>
                         <textoffsetx>20</textoffsetx>
-                        <texturefocus colordiffuse="$INFO[Window().Property(settings.color)]">white.png</texturefocus>
-                        <texturenofocus colordiffuse="22000000">white.png</texturenofocus>
+                        <texturefocus colordiffuse="$INFO[Window().Property(settings.color)]">$INFO[Window().Property(texture.white)]</texturefocus>
+                        <texturenofocus colordiffuse="22000000">$INFO[Window().Property(texture.white)]</texturenofocus>
                         <label>$ADDON[plugin.video.seren 30262]</label>
                         <align>right</align>
                         <textcolor>white</textcolor>
@@ -205,8 +205,8 @@
                         <width>100%</width>
                         <height>80</height>
                         <textoffsetx>20</textoffsetx>
-                        <texturefocus colordiffuse="$INFO[Window().Property(settings.color)]">white.png</texturefocus>
-                        <texturenofocus colordiffuse="22000000">white.png</texturenofocus>
+                        <texturefocus colordiffuse="$INFO[Window().Property(settings.color)]">$INFO[Window().Property(texture.white)]</texturefocus>
+                        <texturenofocus colordiffuse="22000000">$INFO[Window().Property(texture.white)]</texturenofocus>
                         <label>$ADDON[plugin.video.seren 30263]</label>
                         <align>right</align>
                         <textcolor>white</textcolor>
@@ -215,8 +215,8 @@
                         <width>100%</width>
                         <height>80</height>
                         <textoffsetx>20</textoffsetx>
-                        <texturefocus colordiffuse="$INFO[Window().Property(settings.color)]">white.png</texturefocus>
-                        <texturenofocus colordiffuse="22000000">white.png</texturenofocus>
+                        <texturefocus colordiffuse="$INFO[Window().Property(settings.color)]">$INFO[Window().Property(texture.white)]</texturefocus>
+                        <texturenofocus colordiffuse="22000000">$INFO[Window().Property(texture.white)]</texturenofocus>
                         <label>$ADDON[plugin.video.seren 30264]</label>
                         <align>right</align>
                         <textcolor>white</textcolor>
@@ -225,8 +225,8 @@
                         <width>100%</width>
                         <height>80</height>
                         <textoffsetx>20</textoffsetx>
-                        <texturefocus colordiffuse="$INFO[Window().Property(settings.color)]">white.png</texturefocus>
-                        <texturenofocus colordiffuse="22000000">white.png</texturenofocus>
+                        <texturefocus colordiffuse="$INFO[Window().Property(settings.color)]">$INFO[Window().Property(texture.white)]</texturefocus>
+                        <texturenofocus colordiffuse="22000000">$INFO[Window().Property(texture.white)]</texturenofocus>
                         <label>$ADDON[plugin.video.seren 30495]</label>
                         <align>right</align>
                         <textcolor>white</textcolor>
