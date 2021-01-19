@@ -1,4 +1,4 @@
-## Theme for Seren & Auramod users that ONLY modifys the Next up and still watchign popups , the rest is seren 2.x Stock theme based on 2.0.13 of Seren
+## Theme for Seren & Auramod / Arctic Horizon users that ONLY modifys the Next up and still watchign popups , the rest is seren 2.x Stock theme based on 2.0.13 of Seren
                   SmartPlay PopUp             
 ![nextup up popup](https://i.imgur.com/dsaUpuE.jpg)
 
