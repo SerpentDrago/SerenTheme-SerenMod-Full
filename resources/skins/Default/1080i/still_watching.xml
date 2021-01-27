@@ -153,7 +153,7 @@
                         <itemgap>0</itemgap>
                         
                         <include content="Object_IconicButton">
-                            <param name="id" value="3001" />
+                            <param name="id" value="3002" />
                             <param name="groupid" value="9011" />
                             <param name="label" value="Continue Watching" />
                             <param name="icon" value="special://skin/extras/icons/play3.png" />
@@ -162,7 +162,7 @@
                         </include>
                         
                         <include content="Object_IconicButton">
-                            <param name="id" value="3002" />
+                            <param name="id" value="3003" />
                             <param name="groupid" value="9013" />
                             <param name="label" value="Stop" />
                             <param name="icon" value="special://skin/extras/icons/disabled.png" />
