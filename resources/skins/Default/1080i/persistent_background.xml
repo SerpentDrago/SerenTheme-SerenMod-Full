@@ -159,7 +159,7 @@
         <control type="image" id="1001">
             <top>-250</top>
             <left>700</left>
-            <width>150</width>
+            <width>100</width>
             <aspectratio>keep</aspectratio>
             <texture>$INFO[Window().Property(seren.logo)]</texture>
         </control>
