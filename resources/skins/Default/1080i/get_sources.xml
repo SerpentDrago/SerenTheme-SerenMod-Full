@@ -387,7 +387,7 @@
                 <aligny>center</aligny>
                 <width>auto</width>
                 <textcolor>FFDDDDDD</textcolor>
-                <label>Remaining Providers: $INFO[Window().Property(remaining_providers_count)]</label>
+                <label>Remaining Providers: [COLOR $INFO[Window().Property(settings.color)]]$INFO[Window().Property(remaining_providers_count)][/COLOR]</label>
                 <visible>Integer.IsGreaterOrEqual(Window().Property(remaining_providers_count),10)</visible>
             </control>
 
