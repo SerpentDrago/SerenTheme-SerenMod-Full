@@ -81,7 +81,7 @@
                         <font>font_title_small</font>
                         <label>Next Episode in [COLOR $VAR[ColorHighlight]]$INFO[Player.TimeRemaining(ss),,][/COLOR] seconds...</label>
                         <textcolor>panel_fg_100</textcolor>
-                        <visible>!Integer.IsGreater(Player.TimeRemaining,59)</visible>
+                        <visible>!Integer.IsGreater(Player.TimeRemaining,180)</visible>
                     </control>
                     
                     <control type="label">
@@ -89,7 +89,7 @@
                         <font>font_title_small</font>
                         <label>Next Episode...</label>
                         <textcolor>panel_fg_100</textcolor>
-                        <visible>Integer.IsGreater(Player.TimeRemaining,59)</visible>
+                        <visible>Integer.IsGreater(Player.TimeRemaining,180)</visible>
                     </control>
                     
                     <!-- Details -->
@@ -157,7 +157,7 @@
                             <param name="groupid" value="9011" />
                             <param name="label" value="Watch Now" />
                             <param name="icon" value="special://skin/extras/icons/play3.png" />
-                            <param name="visible" value="!Integer.IsGreater(Player.TimeRemaining,59)" />
+                            <param name="visible" value="!Integer.IsGreater(Player.TimeRemaining,180)" />
                             <onclick>SendClick(3012)</onclick>
                         </include>
                         
