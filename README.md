@@ -1,4 +1,6 @@
 ## Theme for Seren & Auramod users
+
+## for a much more updated version , check out inb4's over on his github , note his url to install is diffrent ! read the readme  https://github.com/inb4after/SerenTheme-SerenMod-Full
                   SmartPlay PopUp             
 ![nextup up popup](https://i.imgur.com/dsaUpuE.jpg)
 
