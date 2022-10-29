@@ -139,7 +139,7 @@
                     <wrapmultiline>true</wrapmultiline>
                     <top>360</top>
                     <left>-70</left>
-                    <height min="20" max="130">auto</height>
+                    <height min="20" max="123">auto</height>
                     <width>550</width>
                     <font>font12</font>
                     <textcolor>AAFFFFFF</textcolor>
