@@ -363,7 +363,7 @@
                 <aligny>center</aligny>
                 <width>auto</width>
                 <textcolor>FFDDDDDD</textcolor>
-                <label>Torrents: [COLOR$INFO[Window().Property(settings.color)]]$INFO[Window().Property(total_torrents)][/COLOR] | Cached: [COLOR $INFO[Window().Property(settings.color)]]$INFO[Window().Property(cached_torrents)][/COLOR] | Hosters: [COLOR$INFO[Window().Property(settings.color)]]$INFO[Window().Property(hosters_sources)][/COLOR] | CloudFiles: [COLOR$INFO[Window().Property(settings.color)]]$INFO[Window().Property(cloud_sources)][/COLOR]</label>
+                <label>Torrents: [COLOR$INFO[Window().Property(settings.color)]]$INFO[Window().Property(torrents_total)][/COLOR] | Cached: [COLOR $INFO[Window().Property(settings.color)]]$INFO[Window().Property(torrentsCached_total)][/COLOR] | Hosters: [COLOR$INFO[Window().Property(settings.color)]]$INFO[Window().Property(hosters_total)][/COLOR] | CloudFiles: [COLOR$INFO[Window().Property(settings.color)]]$INFO[Window().Property(cloudFiles_total)][/COLOR]</label>
             </control>
 
             <control type="label">
@@ -375,7 +375,7 @@
                 <aligny>center</aligny>
                 <width>auto</width>
                 <textcolor>FFDDDDDD</textcolor>
-                <label>4k: [COLOR$INFO[Window().Property(settings.color)]]$INFO[Window().Property(4k_sources)][/COLOR] | 1080p: [COLOR $INFO[Window().Property(settings.color)]]$INFO[Window().Property(1080p_sources)][/COLOR] | 720p: [COLOR$INFO[Window().Property(settings.color)]]$INFO[Window().Property(720p_sources)][/COLOR] | SD: [COLOR$INFO[Window().Property(settings.color)]]$INFO[Window().Property(sd_sources)][/COLOR]</label>
+                <label>4k: [COLOR$INFO[Window().Property(settings.color)]]$INFO[Window().Property(torrentsCached_4K)][/COLOR] | 1080p: [COLOR $INFO[Window().Property(settings.color)]]$INFO[Window().Property(torrentsCached_1080p)][/COLOR] | 720p: [COLOR$INFO[Window().Property(settings.color)]]$INFO[Window().Property(torrentsCached_720p)][/COLOR] | SD: [COLOR$INFO[Window().Property(settings.color)]]$INFO[Window().Property(torrentsCached_SD)][/COLOR]</label>
             </control>
 
             <control type="label">

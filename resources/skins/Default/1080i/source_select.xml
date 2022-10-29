@@ -248,7 +248,7 @@
                     <textcolor>FFFFFFFF</textcolor>
 		    <shadowcolor>dimgrey</shadowcolor>
                     <font>font10</font>
-                    <label>Info: [UPPERCASE][COLOR $INFO[Window().Property(settings.color)]]$INFO[ListItem.Property(info)][/COLOR][/UPPERCASE]
+                    <label>Info: [UPPERCASE][COLOR $INFO[Window().Property(settings.color)]]$INFO[ListItem.Property(info_text)][/COLOR][/UPPERCASE]
                     </label>
                 </control>
                 <control type="label">
@@ -368,7 +368,7 @@
                     <textcolor>FFFFFFFF</textcolor>
 		    <shadowcolor>dimgrey</shadowcolor>
                     <font>font10</font>
-                    <label>Info: [UPPERCASE][COLOR $INFO[Window().Property(settings.color)]]$INFO[ListItem.Property(info)][/COLOR][/UPPERCASE]
+                    <label>Info: [UPPERCASE][COLOR $INFO[Window().Property(settings.color)]]$INFO[ListItem.Property(info_text)][/COLOR][/UPPERCASE]
                     </label>
                 </control>
                 <control type="label">

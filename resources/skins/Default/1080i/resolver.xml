@@ -139,7 +139,7 @@
                 <aligny>center</aligny>
                 <width>auto</width>
                 <textcolor>FFDDDDDD</textcolor>
-                <label>Resolution: [UPPERCASE][COLOR$INFO[Window().Property(settings.color)]]$INFO[Window().Property(source_resolution)][/COLOR][UPPERCASE] | Info: [UPPERCASE][COLOR$INFO[Window().Property(settings.color)]]$INFO[Window().Property(source_info)][/COLOR][/UPPERCASE]</label>
+                <label>Resolution: [UPPERCASE][COLOR$INFO[Window().Property(settings.color)]]$INFO[Window().Property(source_resolution)][/COLOR][UPPERCASE] | Info: [UPPERCASE][COLOR$INFO[Window().Property(settings.color)]]$INFO[Window().Property(info_text)][/COLOR][/UPPERCASE]</label>
             </control>
 
         </control>
