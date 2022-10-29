@@ -248,8 +248,19 @@
                     <textcolor>FFFFFFFF</textcolor>
 		    <shadowcolor>dimgrey</shadowcolor>
                     <font>font10</font>
-                    <label>Info: [UPPERCASE][COLOR $INFO[Window().Property(settings.color)]]$INFO[ListItem.Property(info_text)][/COLOR][/UPPERCASE]
+                    <label>Info:
                     </label>
+                </control>
+                <control type="label">
+                    <top>87</top>
+                    <left>53</left>
+                    <width>340</width>
+                    <height>0</height>
+                    <aligny>center</aligny>
+                    <textcolor>$INFO[Window().Property(settings.color)]</textcolor>
+		    <shadowcolor>dimgrey</shadowcolor>
+                    <font>font10</font>
+                    <label>[UPPERCASE]$INFO[ListItem.Property(info_text)][/UPPERCASE]</label>
                 </control>
                 <control type="label">
                     <centertop>70%</centertop>
@@ -368,8 +379,19 @@
                     <textcolor>FFFFFFFF</textcolor>
 		    <shadowcolor>dimgrey</shadowcolor>
                     <font>font10</font>
-                    <label>Info: [UPPERCASE][COLOR $INFO[Window().Property(settings.color)]]$INFO[ListItem.Property(info_text)][/COLOR][/UPPERCASE]
+                    <label>Info:
                     </label>
+                </control>
+                <control type="label">
+                    <top>87</top>
+                    <left>53</left>
+                    <width>340</width>
+                    <height>0</height>
+                    <aligny>center</aligny>
+                    <textcolor>$INFO[Window().Property(settings.color)]</textcolor>
+		    <shadowcolor>dimgrey</shadowcolor>
+                    <font>font10</font>
+                    <label>[UPPERCASE]$INFO[ListItem.Property(info_text)][/UPPERCASE]</label>
                 </control>
                 <control type="label">
                     <centertop>70%</centertop>
